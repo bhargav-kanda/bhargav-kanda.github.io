@@ -1,6 +1,11 @@
+This is the place I try to express myself through the code I write in my free time. Most of my work, since tied to companies, has to be kept private. However, I have gathered here all the projects I could keep open. I will be talking about some of them in detail.
+
+# Traffic Video Analysis [source](https://github.com/bhargavkanda/portfolio)
+# Optimizer [source](https://github.com/bhargavkanda/optimizer)
+
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/bhargavkanda/website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/bhargavkanda/portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
