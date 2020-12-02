@@ -1,42 +1,13 @@
-This is the place I try to express myself through the code I write in my free time. Most of my work, since tied to companies, has to be kept private. However, I have gathered here all the projects I could keep open. I will be talking about some of them in detail.
+Hi, I am Bhargava Ram Kanda, a product, engineering, and machine learning 
+enthusiast. I am experienced in product management, full stack 
+development, and machine learning. My ideal state is to be 
+developing advanced ML products with social impact. 
 
-# Traffic Video Analysis [source](https://github.com/bhargavkanda/portfolio)
-# Optimizer [source](https://github.com/bhargavkanda/optimizer)
+This is the place I try to express myself through 
+the code I write in my free time. Most of my work, since 
+tied to companies, has to be kept private. However, I have
+gathered here all the projects I could keep open. I will
+be talking about some of them in detail.
 
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/bhargavkanda/portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bhargavkanda/website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### Traffic Video Analysis [source](https://github.com/bhargavkanda/portfolio)
+#### Optimizer [source](https://github.com/bhargavkanda/optimizer)
